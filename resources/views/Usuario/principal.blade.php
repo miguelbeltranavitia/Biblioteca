@@ -126,7 +126,7 @@
         <footer class="page-footer font-small unique-color-dark pt-4" id="footer" >
             <div class="container">
             <div class="footer-copyright text-center py-3" style="color:white">
-                © 2018 Copyright.
+                © {{ date('Y') }} Copyright.
             </div>
         </footer>
     </body>
